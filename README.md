@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dee-coded
+- 👋 Hi, I’m deeCoded
 - 👀 I’m a Roblox scripter, and Discord bot Designer.
-- 🌱 I’m currently learning Javascript and C++ web design.
+- 🌱 I’m currently learning Javascript and C++ web design, but am always looking to improve on what I already know.
 - 💞️ I’m looking to collaborate on mainly roblox games.
 - 📫 How to reach me discord: dee coded lol#0522, twitter: DeeCodedxD
 
